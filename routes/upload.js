@@ -16,6 +16,5 @@ router.post("/", upload.single("resume"), async (req, res) => {
         return res.status(500).json({ message: "Error processing PDF", error });
     }
 });
-
-
 module.exports = router;
+
