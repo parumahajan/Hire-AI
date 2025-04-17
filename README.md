@@ -3,7 +3,7 @@
 An AI-powered system that automates resume screening and initial interview processes — built with NLP, ML, and intelligent automation.
 
 # **🚀 Project Overview**
-🔹Recruiters often face a flood of applications, making resume screening slow, biased, and inefficient. Smart Resume Analyzer tackles this problem by:
+Recruiters often face a flood of applications, making resume screening slow, biased, and inefficient. Smart Resume Analyzer tackles this problem by:
 
 🔹Parsing resumes to extract essential data
 
