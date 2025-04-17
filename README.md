@@ -45,3 +45,7 @@ We referred to multiple IEEE papers to design an effective resume analysis pipel
 # **ARCHITECTURE DIAGRAM**
 ![image](https://github.com/user-attachments/assets/4bd64681-dc76-4ed3-83bf-04a71f2807f0)
 
+# **SEQUENCE DIAGRAM**
+![image](https://github.com/user-attachments/assets/ecd62bf4-cc89-4442-983a-bead4990e0f5)
+
+
