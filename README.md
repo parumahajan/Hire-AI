@@ -15,14 +15,20 @@ An AI-powered system that automates resume screening and initial interview proce
 
 # **🧠 Features**
 ✅ Resume Parsing using NLP
+
 ✅ AI-based Candidate Evaluation
+
 ✅ Automated Interview Scheduling with IVR
+
 ✅ Speech-to-Text Conversion + NLP Analysis
+
 ✅ Recruiter Dashboard with Resume Upload & Result View
+
 ✅ Scoring & Ranking System for Applicants
+
 ✅ Secure, Scalable Web Interface
 
-📚 Literature Survey Highlights
+# **📚 Literature Survey Highlights**
 We referred to multiple IEEE papers to design an effective resume analysis pipeline using:
 
 🔹TF-IDF & Cosine Similarity for matching
@@ -36,6 +42,6 @@ We referred to multiple IEEE papers to design an effective resume analysis pipel
 🔹Studies showed accuracy rates up to 99.45% using hybrid techniques combining NER + DRNN + collaborative filtering.
 
 
-# ARCHITECTURE DIAGRAM
+# **ARCHITECTURE DIAGRAM**
 ![image](https://github.com/user-attachments/assets/4bd64681-dc76-4ed3-83bf-04a71f2807f0)
 
