@@ -48,4 +48,8 @@ We referred to multiple IEEE papers to design an effective resume analysis pipel
 # **SEQUENCE DIAGRAM**
 ![image](https://github.com/user-attachments/assets/ecd62bf4-cc89-4442-983a-bead4990e0f5)
 
+# **USE-CASE DIAGRAM**
+![image](https://github.com/user-attachments/assets/659424b2-073e-4bec-a63d-9f5d9cfe685a)
+
+
 
